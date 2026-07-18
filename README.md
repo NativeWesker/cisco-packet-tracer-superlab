@@ -4,7 +4,7 @@ Enterprise Network Topology Design - 10 Core Features Superlab
 Proyek ini menyimulasikan arsitektur jaringan skala enterprise menggunakan Cisco Packet Tracer. Lab ini dirancang untuk memvalidasi implementasi routing, switching, security, dan otomasi berbasis kurikulum Cisco CCNA (ITN, SRWE, ENSA).
 
 ## 🗺️ Topologi Jaringan
-![Network Topology](SuperlabLibrary.jpg)
+![Network Topology](Superlab%20Library.jpg)
 
 ## 🚀 Fitur Utama & Teknologi yang Diimplementasikan
 Lab ini mengintegrasikan 10 fitur utama jaringan:
